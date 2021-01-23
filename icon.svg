@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 400 400"
+   version="1.1"
+   sodipodi:docname="icon.svg"
+   width="400"
+   height="400"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>dashlane logo new</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1822"
+     inkscape:window-height="1057"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="0.77743668"
+     inkscape:cx="487.10703"
+     inkscape:cy="173.34089"
+     inkscape:window-x="90"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g39" />
+  <defs
+     id="defs7">
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#10363d;}</style>
+    <clipPath
+       id="clip-path"
+       transform="translate(0 -76.15)">
+      <rect
+         class="cls-1"
+         width="1303"
+         height="499"
+         id="rect4"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <title
+     id="title9">dashlane logo new</title>
+  <g
+     class="cls-2"
+     clip-path="url(#clip-path)"
+     id="g39"
+     transform="translate(0,-0.00411561)">
+    <g
+       id="g875"
+       transform="translate(71.66,26.654494)">
+      <path
+         class="cls-3"
+         d="m 139.63,218.31 36.45,13.38 c 5.89,2.08 13.06,-0.7 13.06,-5.06 v -92.34 c 0,-2.11 -1.77,-4 -4.62,-5 l -36.45,-13.38 c -5.89,-2.08 -13.06,0.69 -13.06,5 v 92.34 c 0,2.11 1.78,4.05 4.62,5.06"
+         id="path27"
+         transform="translate(0,-76.15)" />
+      <path
+         class="cls-3"
+         d="m 139.63,384.07 36.45,13.38 c 5.89,2.08 13.06,-0.69 13.06,-5.05 v -92.34 c 0,-2.11 -1.77,-4.05 -4.62,-5.06 l -36.45,-13.38 c -5.89,-2.08 -13.06,0.7 -13.06,5.06 V 379 c 0,2.11 1.78,4.05 4.62,5.05"
+         id="path29"
+         transform="translate(0,-76.15)" />
+      <path
+         class="cls-3"
+         d="m 72.13,187.43 36.45,13.38 c 5.89,2.08 13,-0.7 13,-5.06 V 95.29 c 0,-2.11 -1.77,-4.05 -4.62,-5.06 L 80.57,76.86 c -5.9,-2.08 -13.06,0.69 -13.06,5 v 100.51 c 0,2.11 1.77,4.06 4.62,5.06"
+         id="path31"
+         transform="translate(0,-76.15)" />
+      <path
+         class="cls-3"
+         d="m 72.13,408.76 36.45,13.38 c 5.89,2.08 13,-0.69 13,-5.06 v -100.2 c 0,-2.11 -1.77,-4.05 -4.62,-5.06 L 80.57,298.45 c -5.9,-2.08 -13.06,0.69 -13.06,5.05 v 100.2 c 0,2.11 1.77,4.05 4.62,5.06"
+         id="path33"
+         transform="translate(0,-76.15)" />
+      <path
+         class="cls-3"
+         d="m 54.13,99.06 c 0,-2.11 -1.78,-4 -4.63,-5.06 L 13.06,80.62 C 7.17,78.54 0,81.32 0,85.68 v 314.26 c 0,2.11 1.77,4.06 4.62,5.06 l 36.45,13.39 c 5.89,2.07 13.06,-0.7 13.06,-5.06 z"
+         id="path35"
+         transform="translate(0,-76.15)" />
+      <path
+         class="cls-3"
+         d="m 252,182.49 -36.45,-13.38 c -5.89,-2.08 -13,0.7 -13,5.06 v 151.66 c 0,2.11 1.77,4.05 4.62,5.05 l 36.45,13.38 c 5.89,2.08 13.06,-0.69 13.06,-5.05 V 187.55 c 0,-2.11 -1.78,-4.05 -4.63,-5.06"
+         id="path37"
+         transform="translate(0,-76.15)" />
+    </g>
+  </g>
+</svg>

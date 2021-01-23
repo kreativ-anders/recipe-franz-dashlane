@@ -1,0 +1,12 @@
+{
+  "id": "Dashlane",
+  "name": "Dashlane",
+  "version": "0.1",
+  "description": "Dashlane for Franz",
+  "main": "index.js",
+  "author": "kreativ-anders | Manuel Steinberg",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.dashlane.com/login"
+  }
+}
